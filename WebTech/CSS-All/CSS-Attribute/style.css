@@ -1,0 +1,16 @@
+a {
+    background-color: yellow;
+}
+
+a[target] {
+    background-color: blue;
+    color: white
+}
+
+input {
+    background-color: red;
+}
+
+input[name] {
+    background-color: white;
+}
